@@ -1,0 +1,8 @@
+- [ ] Replace dashboard image with `cliqrise-dashboard-light.png`
+- [ ] Update pricing: Individual $75/mo, Pro $125/mo
+- [ ] Reduce vertical spacing between sections in Home.tsx
+- [ ] Resize feature images to be smaller
+- [ ] Replace feature images with appropriate Lucide icons in Home.tsx
+- [ ] Verify and fix pricing values in Home.tsx and Pricing.tsx
+- [ ] Fix 'View Full Pricing' button hover state in Home.tsx
+- [ ] Update CTA section background in Home.tsx to match elegant theme
